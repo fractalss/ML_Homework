@@ -16,8 +16,6 @@ In this homework assignment, you will need to:
 
 - - -
 
-## Instructions
-
 ### Preprocess the Data
 
 * Preprocess the raw dataset prior to fitting the model.
@@ -45,21 +43,3 @@ Compare the performance of two or more classifiers to determine the best model p
 * [Scikit-Learn Tutorial Part 2](https://www.youtube.com/watch?v=gK43gtGh49o&t=5858s)
 
 * [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
-
-- - -
-
-## Hints and Considerations
-
-* Start by cleaning the data, removing unnecessary columns, and scaling the data.
-
-* Try a simple model first, and then tune the model using `GridSearch`.
-
-- - -
-
-## Submission
-
-* Create a Jupyter Notebook and host the notebook on GitHub.
-
-* Include a README.md file that summarizes your assumptions and findings.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
